@@ -21,4 +21,7 @@
 아무쪼록 부지런히 상상하고, 부지런히 사랑 하시길 바랍니다.
 
 # 개발 환경
+
+<img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=HTML5&logoColor=white">
+
 # 프로토타입
